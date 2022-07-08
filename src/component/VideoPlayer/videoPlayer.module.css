@@ -1,0 +1,15 @@
+.playerWrapper {
+    position: relative;
+    object-fit: fill;
+    width: 100%;
+}
+
+.reactPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.reactPlayer video {
+    object-fit: fill;
+}
